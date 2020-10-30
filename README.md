@@ -7,7 +7,7 @@
 - 💬 Ask me anything about AI
 - 🍵 I belive, a perfect cup of coffee can be the ultimate solution for any stress
 - 📫 How to reach me: mohamedchibani420@gmail.com
- <img align="right" alt="GIF" src="data-science.gif" width="400"/>
+ <img align="right" alt="GIF" src="data-science.gif" width="500"/>
  
  
 ## Things that I execute in free time ⚡ -
