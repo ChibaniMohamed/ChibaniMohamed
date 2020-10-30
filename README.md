@@ -7,12 +7,12 @@
 - 💬 Ask me anything about AI
 - 🍵 I belive, a perfect cup of coffee can be the ultimate solution for any stress
 - 📫 How to reach me: mohamedchibani420@gmail.com
+<img align="right" alt="GIF" src="data-science.gif" width="500"/>
 ## Things that I execute in free time ⚡ -
 - ⭐️ While Coding, Listening Music and developing useful code.
 - :closed_lock_with_key: Bug Bounty Hunting.
 - :computer: Just loved to Explore new Tech Stacks.💻
 - 🌌 ☄️ 🔭 Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job.
-<img align="right" alt="GIF" src="data-science.gif" width="500"/>
 <img align="center" src="connect.png?raw=true"/>
 
 - <a href="https://www.instagram.com/x_n3ur0n/"><img src="https://img.shields.io/badge/instagram%20@x_n3ur0n-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
