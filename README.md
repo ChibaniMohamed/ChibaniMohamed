@@ -1,5 +1,5 @@
-
-<img align="right" alt="GIF" src="gif3.gif" width="500"/>
+<img align="left" alt="GIF" src="gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="data-science.gif" width="500"/>
 <img align="center" src="about.png?raw=true"/>
 
 - :mortar_board: Studying Computer Science, computer programming and Mathematics
