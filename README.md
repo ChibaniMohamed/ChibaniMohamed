@@ -1,12 +1,12 @@
 <img align="left" alt="GIF" src="gif3.gif" width="500"/>
 <img align="center" src="about.png?raw=true"/>
+
 - :mortar_board: Studying Computer Science, computer programming and Mathematics
 - 🔭 Learning and Developing Machine Learning based projects in Python
 - 🌱 Enthusiast in cyber Security and Artificial Intelligence
 - 💬 Ask me anything about AI
 - 🍵 I belive, a perfect cup of coffee can be the ultimate solution for any stress
 - 📫 How to reach me: mohamedchibani420@gmail.com
-
 
 <img align="right" alt="GIF" src="data-science.gif" width="500"/>
 
