@@ -11,6 +11,7 @@
 <img align="right" alt="GIF" src="data-science.gif" width="500"/>
 
 ## Things that I execute in free time ⚡
+
 - ⭐️ While Coding, Listening Music and developing useful code.
 - :closed_lock_with_key: Bug Bounty Hunting.
 - :computer: Just loved to Explore new Tech Stacks.💻
