@@ -1,7 +1,7 @@
 <img align="left" alt="GIF" src="gif3.gif" width="500"/>
 <img align="center" src="about.png?raw=true"/>
 
-- :mortar_board: Studying Computer Science, computer programming and Mathematics
+- :mortar_board: Studying Computer Science, computer programming and Mathematic
 - 🔭 Learning and Developing Machine Learning based projects in Python
 - 🌱 Enthusiast in cyber Security and Artificial Intelligence
 - 💬 Ask me anything about AI
