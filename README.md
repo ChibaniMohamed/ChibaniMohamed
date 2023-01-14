@@ -45,8 +45,8 @@
 
 <img align="center" src="git.png?raw=true"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChibaniMohamed&langs_count=8&theme=radical&title_color=8E2DE2&text_color=fff"/>
-<img src="https://github-readme-stats.vercel.app/api?username=ChibaniMohamed&show_icons=true&bg_color=30,e94393,6e25db&title_color=fff&text_color=fff&icon_color=8E2DE2">
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChibaniMohamed&langs_count=8&theme=radical&title_color=8E2DE2&text_color=fff"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChibaniMohamed&show_icons=true&bg_color=30,e94393,6e25db&title_color=fff&text_color=fff&icon_color=8E2DE2">
 <img src="https://github-profile-trophy.vercel.app/?username=ChibaniMohamed&theme=monokai" />
 
 
