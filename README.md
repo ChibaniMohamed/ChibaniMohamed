@@ -20,7 +20,6 @@
 
 - <a href="https://www.instagram.com/x_n3ur0n/"><img src="https://img.shields.io/badge/instagram%20@x_n3ur0n-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.facebook.com/mohamedchibani420/"><img src="https://img.shields.io/badge/facebook%20@mohamedchibani420-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://www.twitter.com/B1ack_x_Hack3r/"><img src="https://img.shields.io/badge/twitter%20@B1ack_x_Hack3r-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 - <a href="https://www.linkedin.com/in/mohamed-chibani/"><img height="30px" src="https://img.shields.io/badge/My%20Linkedin:%20mohamedchibani-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <img align="center" src="skills.png?raw=true">
